@@ -10,8 +10,7 @@ Please keep in mind:
 
 1) Your app will be running on ephemeral storage, so don't get too attached to any of the videos you upload.
 
-2) This is running a small, internal h2 database, and you must use the Streama repo on my account to deploy
-   the version of this app that will connect to a mysql database.
+2) This is running an internal h2 database. Please use the Streama repo on my page to deploy a Streama instance using mysql.
 
 After you deploy this app, just log in using the default credentials (admin:admin), set your upload folder (try
 /data/streama or /home/jboss/upload), set your URL, and begin uploading videos!
